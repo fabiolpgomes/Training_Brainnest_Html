@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700");
+
+* {
+  background-color: #070707;
+  color: white;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+  font-size: x-large;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-font-smoothing: antialiased !important;
+  text-rendering: optimizelegibility !important;
+  letter-spacing: 0.03em;
+  margin-left: 10px;
+}
+
+.body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 24px;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.flex > div {
+  flex: 1 1 400px;
+}
+
+.pictures-container {
+  display: block;
+  margin: auto;
+}
+
+footer p {
+  font-size: small;
+  text-align: center;
+}
