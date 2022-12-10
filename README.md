@@ -66,7 +66,9 @@ l. As a bit of practice, add an alt attribute to the first-img you added to the 
 
 ______________________________________________________________________________________________________________________________________________________________
 
-#Training Brainnest Program
+
+# Brainnest Training Program
+
 
 ## What benefits will you gain?
 
