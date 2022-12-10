@@ -5,9 +5,6 @@
 ### According to the 4. Assignment(Main HTML project): 
 For presentation make a few page presentation website about your hobby/favorite books/movies etc. Your website should contain a homepage with a link to go inside to the page where your material should be presented in list form, with links leading to pages with the description(text & image) of your chosen subject. As an added bonus, you can make each list element into a link, leading to the page where additional information about said subject can be found(images are always welcomed, just don't over do it :D)
 
-
-![overview calculator](https://user-images.githubusercontent.com/99607827/206860132-d2c3b387-9b48-4015-93d4-19bd369c20f6.png)
-
 ## <a href="https://fabiolpgomes.github.io/Training_Brainnest_Html/" target="_blank">HTML Project</a>
 
 
