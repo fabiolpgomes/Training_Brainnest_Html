@@ -13,8 +13,11 @@ For presentation make a few page presentation website about your hobby/favorite 
 
 ![aboutpageview](https://user-images.githubusercontent.com/99607827/204093253-02abe832-8d05-4184-ac2c-85d1cc9c38b2.png)
 
-![image](https://user-images.githubusercontent.com/99607827/204093281-110b6394-984e-4b36-9afd-01b9faf8ee70.png)
+![favoritesview](https://user-images.githubusercontent.com/99607827/206862989-ea6d035f-d1ac-46e8-9dab-c4cac813196f.png)
 
+![favoritesmoviespage](https://user-images.githubusercontent.com/99607827/206863029-e3923aef-c338-49d5-80b7-7707d762a74d.png)
+
+_____________________________________________________________________________________________________________________________________________________________
 
 **3. Assignment(Links & Images):**
 a. Create a new directory named **links-and-images**
